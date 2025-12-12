@@ -1,0 +1,8 @@
+{
+  "name": "ContractGuard",
+  "description": "A comprehensive contract protection platform for South Africans, leveraging Gemini for plain language analysis and negotiation support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
